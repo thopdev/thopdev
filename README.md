@@ -1,4 +1,5 @@
-- 🔭 I’m Thomas Hop
-- 🌱 I’ve just starting bloggin on https://blog.thop.xyz
-- 👯 I’m on Twitter https://twitter.com/thopdev
-- 📫 I'm on Linkdin https://www.linkedin.com/in/thomashop/
+- I’m Thomas Hop
+- I’ve just starting bloggin on https://blog.thop.xyz
+- I’m streaming on https://twitch.tv/thopdev
+- I’m on Twitter https://twitter.com/thopdev
+- I'm on Linkdin https://www.linkedin.com/in/thomashop/
