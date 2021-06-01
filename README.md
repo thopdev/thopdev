@@ -1,5 +1,7 @@
 - I’m Thomas Hop
+- I'm upload to https://www.youtube.com/channel/UCFahGHoCA0ukPlSU1Y3ndqw
 - I’ve just starting bloggin on https://blog.thop.xyz
 - I’m streaming on https://twitch.tv/thopdev
 - I’m on Twitter https://twitter.com/thopdev
 - I'm on Linkdin https://www.linkedin.com/in/thomashop/
+- **You** can contact me on: github@thop.dev
